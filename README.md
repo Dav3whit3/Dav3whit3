@@ -24,12 +24,10 @@
 
 ---
 ### Spotify Playing 🎧
-[![Spotify](https://dav3whit3.vercel.app/api/spotify)](https://open.spotify.com/user/sk8kid?si=tqxqLukhT0eHULJ4IsobKQ)
+
+&nbsp; <br> [![Spotify](https://Dav3whit3.vercel.app/api/spotify)](https://open.spotify.com/user/sk8kid)
 
 
-https://novatorem.dav3whit3.vercel.app/
-
-<img src="https://novatorem.dav3whit3.vercel.app/api/spotify-playing" width="350" />
 ---
 
 <details open>
