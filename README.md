@@ -21,3 +21,17 @@
 		</tr>
 	</tbody>
 </table>
+
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Dav3whit3"/>
+
+---
+
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Dav3whit3&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Dav3whit3&hide=css,java,html&theme=tokyonight">
+</p>
+</details>
