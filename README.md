@@ -14,21 +14,17 @@
 
 <br />
 
-<div>
-    <div>
-        <p> <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="float: left;"> Python  </p> 
-        <p> <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="float: left;"> Python  </p>
-    </div>
+
 
 <table style="background-color: white; border-color: #FFFFFF; margin-left: auto; margin-right: auto;">	<tbody>
 		<tr>
-			<td>&nbsp;<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Python</td>
-			<td>&nbsp;<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> SQL</td>
-			<td>&nbsp;</td>
+			<td>&nbsp;- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Python</td>
+			<td>&nbsp;- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> SQL</td>
+			<td>&nbsp;- <img align="left" alt="Visual Studio Code" width="26px" src="img/pandas.png" /> Pandas</td>
 		</tr>
 		<tr>
 			<td>&nbsp;hola</td>
-			<td>&nbsp;</td>
+			<td>&nbsp;<img align="left" alt="Visual Studio Code" width="26px" src="img/download.jpg" /> Selenium</td>
 			<td>&nbsp;</td>
 		</tr>
 		<tr>

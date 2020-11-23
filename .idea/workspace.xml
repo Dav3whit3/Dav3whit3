@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f672a1f-b6a4-4bb1-82b1-7fecb08af125" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +39,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -66,5 +68,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1509" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1606156201926">
+      <screen x="1024" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1509" y="188" width="1022" height="737" key="SettingsEditor/1024.0.1920.1080/2944.0.2560.1080/0.27.1024.1253@1024.0.1920.1080" timestamp="1606156201926" />
   </component>
 </project>
