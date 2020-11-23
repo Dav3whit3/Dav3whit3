@@ -21,8 +21,11 @@
 		</tr>
 	</tbody>
 </table>
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Dav3whit3"/>
 
+---
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/sk8kid)
 ---
 
 <details open>
@@ -33,3 +36,5 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Dav3whit3&hide=css,java,html&theme=tokyonight">
 </p>
 </details>
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Dav3whit3"/>
