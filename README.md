@@ -2,14 +2,6 @@
 
 ## ⚡ Tech Stack
 
-- <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spark/spark.png" /> Python
- 
-
-
-<br />
-
-
-
 <table style="background-color: white; border-color: #FFFFFF; margin-left: auto; margin-right: auto;">	<tbody>
 		<tr>
 			<td>&nbsp;<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Python</td>
