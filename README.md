@@ -21,8 +21,6 @@
 		</tr>
 	</tbody>
 </table>
-
-
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Dav3whit3"/>
 
 ---
