@@ -74,6 +74,7 @@
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/redis-ar21.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
     </div>
+<br>
 <div>
     <img src="img/separator.png" width="100%"/>
 </div>
