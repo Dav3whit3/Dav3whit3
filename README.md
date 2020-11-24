@@ -2,9 +2,7 @@
     <img src="img/ht3.png" width="100%"/>
 </div>
 
-<p>
-    <h1 align="center"><b>Hello there, I'm David Blanco 👋</b></h1>
-</p>
+<h1 align="center"><b>Hello there, I'm David Blanco 👋</b></h1>
 
 <div align="center" style="margin-right:10px">
     <div>
@@ -12,11 +10,11 @@
     </div>
     <br>
     <div style="margin-right:10px">
-        <a href="mailto:davidblancoferrandez@gmail.com">
+        <a href="mailto:davidblancoferrandez@gmail.com"/>
             <img height="40px" src="https://simpleicons.org/icons/gmail.svg"/>
-        <a href="https://www.linkedin.com/in/david-white-madrid/">
+        <a href="https://www.linkedin.com/in/david-white-madrid"/>
             <img height="40px" src="https://simpleicons.org/icons/linkedin.svg"/>
-        <a href="https://www.notion.so/Resume-97726996db554517bc4149b34b1b8e04">
+        <a href="https://www.notion.so/Resume-97726996db554517bc4149b34b1b8e04"/>
             <img height="40px" src="https://simpleicons.org/icons/notion.svg"/>
     </div>
 </div>
