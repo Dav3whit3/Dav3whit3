@@ -20,8 +20,8 @@
 <details open>
  <summary> 😇 <b>⚡ Tech Stack</b>: </summary>
 <br>
-
-<table style="background-color: #FFFFFF; border-color: #FFFFFF; margin-left: auto; margin-right: auto; float: right;">
+<div style="display: inline-block;">
+<table style="background-color: #FFFFFF; border-color: #FFFFFF; margin-left: auto; margin-right: auto; float: left;">
 	<tbody>
 		<tr>
 			<td>&nbsp;<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Python</td>
@@ -41,14 +41,14 @@
 	</tbody>
 </table>
 
-<table style="float: right;">
+<table style="float: left;">
 	<tbody>
 		<tr>
 			<td>&nbsp;asas</td>
 		</tr>
 	</tbody>
 </table>
-
+</div>
 
 ---
 
