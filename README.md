@@ -16,7 +16,6 @@
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
-<img height="40px" src="https://simpleicons.org/icons/gmail.svg" />
 
 <div align="center">
     <img src="img/separator.png" width="100%"/>
@@ -48,13 +47,10 @@
 	</tbody>
 </table>
 
-<table align="center">
-	<tbody>
-		<tr>
-			<td>&nbsp;asas</td>
-		</tr>
-	</tbody>
-</table>
+<div>
+    - <img height="40px" src="https://simpleicons.org/icons/gmail.svg" />
+</div>
+
 </div>
 
 <div align="center">
