@@ -88,3 +88,5 @@
 <div align="center">
     <img src="img/footer.png" width="100%"/>
 </div>
+
+<code> <img height="50" src="https://github.com/dav3whit3/-/blob/master/resource/python-icon.svg"> </code>
