@@ -1,8 +1,9 @@
 <div align="center">
-    <img src="img/hhh.png" width="100%"/>
+    <img src="img/ht3.png" width="100%"/>
 </div>
+
 <p>
-  <h1 align="center"><b>Hello there, I'm David Blanco 👋</b></h1>
+    <h1 align="center"><b>Hello there, I'm David Blanco 👋</b></h1>
 </p>
 
 <details open>
