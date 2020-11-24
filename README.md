@@ -15,7 +15,6 @@
 
 ---
 </details>
-<br>
 <details open>
  <summary> 😇 <b>⚡ Tech Stack</b>: </summary>
 <br>
