@@ -55,9 +55,10 @@
     <div style="margin-right:10px">
         <a href="mailto:davidblancoferrandez@gmail.com">
             <img height="40px" src="https://simpleicons.org/icons/gmail.svg"/>
-        <img height="40px" src="https://simpleicons.org/icons/linkedin.svg"/>
-        <img height="40px" src="https://simpleicons.org/icons/notion.svg"/>
-        
+        <a href="https://www.linkedin.com/in/david-white-madrid/">
+            <img height="40px" src="https://simpleicons.org/icons/linkedin.svg"/>
+        <a href="https://www.notion.so/Resume-97726996db554517bc4149b34b1b8e04">
+            <img height="40px" src="https://simpleicons.org/icons/notion.svg"/>
     </div>
 </div>
 
