@@ -44,7 +44,7 @@
  <summary> 😇 <b>⚡ Tech Stack</b>: </summary>
 <br>
 
-<div>
+<div style="display: flex">
     <div>
         <p align="center" >
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/python-icon.svg"> </code>
