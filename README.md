@@ -47,7 +47,7 @@
 	</tbody>
 </table>
 
-<div align="center">
+<div align="center" style="margin-right:10px">
     <div>
         <b>Contact me:</b>
     </div>
