@@ -8,14 +8,14 @@
 
 <img align="right" height="200px" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
-- 🔭 I’m currently working on my Portfolio Website :grin:
-- 🌱 I’m currently learning MERN Stack Development.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2020 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 How to reach me: [Let's get in touch!][linkedin]
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+- 🔭 I’m a graduated Dat Analytics Bootcamp student (and also an economist)
+- 🌱 I’m currently expanding my Data stack: 
+- 👯 
+- 🥅 
+- 💬 
+- 📬 
+- 🧗 
+- ⚡ Fun fact: 
 
 <div align="center">
     <img src="img/separator.png" width="100%"/>
