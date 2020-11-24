@@ -1,5 +1,5 @@
 <details open>
- <summary> 😇 <b>Hi there 👋</b>: </summary>
+ <summary> 😇 <b>Hi there I'm David👋</b>: </summary>
 <br>
 
 <img align="right" height="200px" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
@@ -12,7 +12,7 @@
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
-
+<img height="40px" src="https://simpleicons.org/icons/gmail.svg" />
 ---
 </details>
 <details open>
@@ -39,6 +39,13 @@
 	</tbody>
 </table>
 
+<table style="float: right;">
+<tbody>
+<tr>
+<td>&nbsp;asas</td>
+</tr>
+</tbody>
+</table>
 ---
 </details>
 
