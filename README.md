@@ -44,28 +44,25 @@
  <summary> 😇 <b>⚡ Tech Stack</b>: </summary>
 <br>
 
-<div style="display: flex;">
-<table align="left">
-	<tbody>
-		<tr>
-			<td>&nbsp;<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Python</td>
-			<td>&nbsp;<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> SQL</td>
-			<td>&nbsp;<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" /> Scala</td>
-		</tr>
-		<tr>
-		    <td>&nbsp;<img align="left" alt="Visual Studio Code" width="26px" src="img/spark.png" /> Spark</td>
-		    <td>&nbsp;<img align="left" alt="Visual Studio Code" width="26px" src="img/pandas.png" /> Pandas</td>
-			<td>&nbsp;<img align="left" alt="Visual Studio Code" width="26px" src="img/plotly.png" /> Plotly</td>
-		</tr>
-		<tr>
-			<td>&nbsp;<img align="left" alt="Visual Studio Code" width="26px" src="img/download.jpg" /> Selenium</td>
-			<td>&nbsp;<img align="left" alt="Visual Studio Code" width="26px" src="img/Dash.png" /> Dash</td>
-			<td>&nbsp;</td>
-		</tr>
-	</tbody>
-</table>
+<p align="center" >
+<code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/python-icon.svg"> </code>
+<code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/dj.svg"> </code>
+<code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/jp.svg"> </code>
+<code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/scala.svg"> </code>
+<code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/plot_ly-ar21.svg"> </code>
+<code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/databricks.svg"> </code>
+<code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/docker-ar21.svg"> </code>
+<code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/git.svg"> </code>
+<code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/linux-ar21.svg"> </code>
+<code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
+<code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/gdal-ar21.svg"> </code>
+<code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/redis-ar21.svg"> </code>
+<code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
+<code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
+<code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/mysql-ar21.svg"> </code>
+<code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
 
-</div>
+</p>
 
 <div>
     <img src="img/separator.png" width="100%"/>
