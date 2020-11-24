@@ -1,4 +1,7 @@
 ### Hi there 👋
+<details open>
+ <summary> 😇 <b>### Hi there 👋/b>: </summary>
+<br>
 
 <br>
 
@@ -15,7 +18,9 @@
 
 <br>
 
-## ⚡ Tech Stack
+<details open>
+ <summary> 😇 <b>## ⚡ Tech Stack</b>: </summary>
+<br>
 
 <table style="background-color: #FFFFFF; border-color: #FFFFFF; margin-left: auto; margin-right: auto;">
 	<tbody>
