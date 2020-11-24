@@ -47,7 +47,7 @@
 	</tbody>
 </table>
 
-<div style="margin-left:90px;">
+<div align="right" style="margin-right:90px;">
     <img height="40px" src="https://simpleicons.org/icons/gmail.svg" />
 </div>
 
