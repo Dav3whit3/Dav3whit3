@@ -1,6 +1,9 @@
 ### Hi there 👋
 
+<br>
+
 <img align="right" height="200px" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 🌱 I’m currently learning MERN Stack Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
@@ -9,6 +12,9 @@
 - 📬 How to reach me: [Let's get in touch!][linkedin]
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
+
+<br>
+
 ## ⚡ Tech Stack
 
 <table style="background-color: #FFFFFF; border-color: #FFFFFF; margin-left: auto; margin-right: auto;">
