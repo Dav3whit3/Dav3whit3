@@ -26,10 +26,6 @@
  <summary> 😇 <b>⚡ Tech Stack</b>: </summary>
 <br>
 
-<div align="center" style="margin-right:90px;">
-    <b>Contact me:</b>
-</div>
-
 <div style="display: flex;">
 <table align="left">
 	<tbody>
@@ -52,6 +48,7 @@
 </table>
 
 <div align="center" style="margin-right:90px;">
+    <b>Contact me:</b>
     <img height="40px" src="https://simpleicons.org/icons/gmail.svg" />
 </div>
 
