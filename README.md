@@ -53,7 +53,8 @@
     </div>
     <div style="margin-right:10px">
         <img height="40px" src="https://simpleicons.org/icons/gmail.svg"/>
-        <img height="40px" src="https://simpleicons.org/icons/linkedin.svg" />
+        <img height="40px" src="https://simpleicons.org/icons/linkedin.svg"/>
+        <img height="40px" src="https://simpleicons.org/icons/Notion.svg"/>
     </div>
 </div>
 
