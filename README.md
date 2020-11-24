@@ -44,8 +44,8 @@
  <summary> 😇 <b>⚡ Tech Stack</b>: </summary>
 <br>
 
-<div style="display: flex">
-    <div>
+<div>
+    <div align="left">
         <p align="center" >
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/python-icon.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/dj.svg"> </code>
@@ -65,7 +65,7 @@
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
         </p>
     </div>
-        <div>
+        <div align="right">
         <p align="center" >
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/python-icon.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/dj.svg"> </code>
