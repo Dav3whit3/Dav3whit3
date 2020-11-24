@@ -53,7 +53,7 @@
 
 </div>
 
-<div style="margin-left:45px"; align="center">
+<div style="margin-left:45px";>
     <img src="img/separator.png" width="100%"/>
 </div>
 
