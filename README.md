@@ -1,6 +1,7 @@
 <details open>
  <summary> 😇 <b>Hi there 👋</b>: </summary>
 <br>
+</details>
 
 <img align="right" height="200px" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
@@ -39,7 +40,7 @@
 		</tr>
 	</tbody>
 </table>
-
+</details>
 
 ---
 
