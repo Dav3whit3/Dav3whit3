@@ -47,13 +47,13 @@
 	</tbody>
 </table>
 
+<div style="margin-left:90px;">
+    <img height="40px" src="https://simpleicons.org/icons/gmail.svg" />
+</div>
+
+</div>
+
 <div>
-    - <img height="40px" src="https://simpleicons.org/icons/gmail.svg" />
-</div>
-
-</div>
-
-<div style="margin-left:90px; margin-right: 50px">
     <img src="img/separator.png" width="100%"/>
 </div>
 
