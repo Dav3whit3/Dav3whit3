@@ -46,7 +46,7 @@
 <div align="center">
         <code> <img height="50" src="img/python-icon.svg"> </code>
         <code> <img height="50" src="img/postgresql-ar21.svg"> </code>
-        <code> <img height="70" src="img/spark.png"> </code>
+        <code> <img height="60" src="img/spark.png"> </code>
         <code> <img height="50" src="img/scala.svg"> </code>
         <code> <img height="50" src="img/aws.png"> </code>
         <code> <img height="50" src="img/plot_ly-ar21.svg"> </code>
