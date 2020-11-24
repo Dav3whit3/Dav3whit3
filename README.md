@@ -54,7 +54,6 @@
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/git.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/linux-ar21.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/gdal-ar21.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/redis-ar21.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
@@ -67,22 +66,13 @@
  <summary> 😇 <b>⚡ Tech in Progress</b>: </summary>
 <br>
 <div align="center">
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/python-icon.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/dj.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/jp.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/scala.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/plot_ly-ar21.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/databricks.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/docker-ar21.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/git.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/linux-ar21.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/gdal-ar21.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/redis-ar21.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/mysql-ar21.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
     </div>
 <div>
     <img src="img/separator.png" width="100%"/>
@@ -105,4 +95,4 @@
     <img src="img/footer.png" width="100%"/>
 </div>
 
-<code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/python-icon.svg"> </code>
+<code> <img src="img/Dash.png"> </code>
