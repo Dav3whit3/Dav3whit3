@@ -18,8 +18,6 @@
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 <img height="40px" src="https://simpleicons.org/icons/gmail.svg" />
 
----
-
 </details>
 <details open>
  <summary> 😇 <b>⚡ Tech Stack</b>: </summary>
@@ -53,8 +51,6 @@
 	</tbody>
 </table>
 </div>
-
----
 
 <div align="center">
     <img src="img/separator.png" width="100%"/>
