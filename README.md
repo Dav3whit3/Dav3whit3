@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Dav3whit3/System-Dav3whit3/master/img/header.png" alt="David" width="100%"/>
+</div>
+
 <details open>
  <summary> 😇 <b>Hi there I'm David👋</b>: </summary>
 <br>
