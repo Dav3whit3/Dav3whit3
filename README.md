@@ -27,8 +27,8 @@
  <summary> 😇 <b>⚡ Tech Stack</b>: </summary>
 <br>
 
-<div>
-<table style="display: flex;">
+<div style="display: flex;">
+<table>
 	<tbody>
 		<tr>
 			<td>&nbsp;<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Python</td>
