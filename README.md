@@ -52,7 +52,7 @@
         <b>Contact me:</b>
     </div>
     <div style="margin-right:10px">
-        <img height="40px" src="https://simpleicons.org/icons/gmail.svg"/>
+        <img height="40px" src="https://simpleicons.org/icons/gmail.svg" width="80%"/>
         <img height="40px" src="https://simpleicons.org/icons/linkedin.svg" />
     </div>
 </div>
