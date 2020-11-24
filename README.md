@@ -13,13 +13,15 @@
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 <img height="40px" src="https://simpleicons.org/icons/gmail.svg" />
+
 ---
+
 </details>
 <details open>
  <summary> 😇 <b>⚡ Tech Stack</b>: </summary>
 <br>
 
-<table style="background-color: #FFFFFF; border-color: #FFFFFF; margin-left: auto; margin-right: auto;">
+<table style="background-color: #FFFFFF; border-color: #FFFFFF; margin-left: auto; margin-right: auto; float: right;">
 	<tbody>
 		<tr>
 			<td>&nbsp;<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> Python</td>
@@ -40,13 +42,16 @@
 </table>
 
 <table style="float: right;">
-<tbody>
-<tr>
-<td>&nbsp;asas</td>
-</tr>
-</tbody>
+	<tbody>
+		<tr>
+			<td>&nbsp;asas</td>
+		</tr>
+	</tbody>
 </table>
+
+
 ---
+
 </details>
 
 <details open>
