@@ -6,6 +6,21 @@
     <h1 align="center"><b>Hello there, I'm David Blanco 👋</b></h1>
 </p>
 
+<div align="center" style="margin-right:10px">
+    <div>
+        <b>Contact me:</b>
+    </div>
+    <br>
+    <div style="margin-right:10px">
+        <a href="mailto:davidblancoferrandez@gmail.com">
+            <img height="40px" src="https://simpleicons.org/icons/gmail.svg"/>
+        <a href="https://www.linkedin.com/in/david-white-madrid/">
+            <img height="40px" src="https://simpleicons.org/icons/linkedin.svg"/>
+        <a href="https://www.notion.so/Resume-97726996db554517bc4149b34b1b8e04">
+            <img height="40px" src="https://simpleicons.org/icons/notion.svg"/>
+    </div>
+</div>
+
 <details open>
  <summary> 😇 <b>About me👋</b>: </summary>
 <br>
@@ -50,21 +65,6 @@
 		</tr>
 	</tbody>
 </table>
-
-<div align="center" style="margin-right:10px">
-    <div>
-        <b>Contact me:</b>
-    </div>
-    <br>
-    <div style="margin-right:10px">
-        <a href="mailto:davidblancoferrandez@gmail.com">
-            <img height="40px" src="https://simpleicons.org/icons/gmail.svg"/>
-        <a href="https://www.linkedin.com/in/david-white-madrid/">
-            <img height="40px" src="https://simpleicons.org/icons/linkedin.svg"/>
-        <a href="https://www.notion.so/Resume-97726996db554517bc4149b34b1b8e04">
-            <img height="40px" src="https://simpleicons.org/icons/notion.svg"/>
-    </div>
-</div>
 
 </div>
 
