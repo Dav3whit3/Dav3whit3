@@ -63,11 +63,11 @@
 <br>
 <div align="center">
         <code> <img height="50" src="img/apache_hadoop-ar21.svg"> </code>
-        <code> <img height="50" src="himg/redis-ar21.svg"> </code>
-        <code> <img height="50" src="himg/mongodb-ar21.svg"> </code>
+        <code> <img height="50" src="img/redis-ar21.svg"> </code>
+        <code> <img height="50" src="img/mongodb-ar21.svg"> </code>
         <code> <img height="50" src="img/plot_ly-ar21.svg"> </code>
         <code> <img height="50" src="img/databricks.svg"> </code>
-        <code> <img height="50" src="himg/docker-ar21.svg"> </code>
+        <code> <img height="50" src="img/docker-ar21.svg"> </code>
         <code> <img height="50" src="img/apache_hadoop-ar21.svg"> </code>
         <code> <img height="50" src="img/redis-ar21.svg"> </code>
         <code> <img height="50" src="img/mongodb-ar21.svg"> </code>
