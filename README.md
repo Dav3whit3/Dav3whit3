@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+<img align="right" height="270px" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 - 🔭 I’m currently working on my Portfolio Website :grin:
 - 🌱 I’m currently learning MERN Stack Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
