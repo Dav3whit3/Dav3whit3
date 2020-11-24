@@ -1,9 +1,12 @@
 <div align="center">
     <img src="img/hhh.png" width="100%"/>
 </div>
+<p>
+  <h1 align="center"><b>Hello there, I'm David Blanco 👋</b></h1>
+</p>
 
 <details open>
- <summary> 😇 <b>Hi there I'm David👋</b>: </summary>
+ <summary> 😇 <b>About me👋</b>: </summary>
 <br>
 
 <img align="right" height="200px" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
