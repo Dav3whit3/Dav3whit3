@@ -1,7 +1,6 @@
 <details open>
  <summary> 😇 <b>Hi there 👋</b>: </summary>
 <br>
-</details>
 
 <img align="right" height="200px" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
@@ -15,6 +14,7 @@
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
 ---
+</details>
 <br>
 
 <details open>
@@ -40,9 +40,9 @@
 		</tr>
 	</tbody>
 </table>
-</details>
 
 ---
+</details>
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
