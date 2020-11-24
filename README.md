@@ -56,6 +56,10 @@
 
 ---
 
+<div align="center">
+    <img src="img/separator.png" width="100%"/>
+</div>
+
 </details>
 
 <details open>
@@ -68,3 +72,7 @@
 </details>
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Dav3whit3"/>
+
+<div align="center">
+    <img src="img/footer.png" width="100%"/>
+</div>
