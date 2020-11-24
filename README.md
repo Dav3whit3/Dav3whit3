@@ -46,7 +46,6 @@
 
 <div>
     <div align="left">
-        <p align="center" >
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/python-icon.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/dj.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/jp.svg"> </code>
@@ -63,10 +62,8 @@
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/mysql-ar21.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
-        </p>
     </div>
         <div align="right">
-        <p align="center" >
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/python-icon.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/dj.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/jp.svg"> </code>
@@ -83,7 +80,6 @@
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/mysql-ar21.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
-        </p>
     </div>
     
 </div>
