@@ -1,6 +1,5 @@
-### Hi there 👋
 <details open>
- <summary> 😇 <b>### Hi there 👋/b>: </summary>
+ <summary> 😇 <b>Hi there 👋/b>: </summary>
 <br>
 
 <br>
@@ -16,10 +15,11 @@
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
 
+---
 <br>
 
 <details open>
- <summary> 😇 <b>## ⚡ Tech Stack</b>: </summary>
+ <summary> 😇 <b>⚡ Tech Stack</b>: </summary>
 <br>
 
 <table style="background-color: #FFFFFF; border-color: #FFFFFF; margin-left: auto; margin-right: auto;">
