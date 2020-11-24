@@ -21,6 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="1f672a1f-b6a4-4bb1-82b1-7fecb08af125" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Dash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/download.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/pandas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/plotly.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

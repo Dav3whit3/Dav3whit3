@@ -95,4 +95,4 @@
     <img src="img/footer.png" width="100%"/>
 </div>
 
-<code> <img src="img/Dash.png"> </code>
+<code> <img height="50" src="img/dash.png"> </code>
