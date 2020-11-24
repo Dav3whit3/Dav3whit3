@@ -48,7 +48,7 @@
 	</tbody>
 </table>
 
-<table style="width:50%; float: left;">
+<table>
 	<tbody>
 		<tr>
 			<td>&nbsp;asas</td>
