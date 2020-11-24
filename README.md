@@ -48,7 +48,9 @@
 </table>
 
 <div align="center" style="margin-right:90px;">
-    <b>Contact me:</b>
+    <div>
+        <b>Contact me:</b>
+    </div>
     <img height="40px" src="https://simpleicons.org/icons/gmail.svg" />
 </div>
 
