@@ -26,6 +26,10 @@
  <summary> 😇 <b>⚡ Tech Stack</b>: </summary>
 <br>
 
+<div align="right" style="margin-right:90px;">
+    <b>Contact me:</b>
+</div>
+
 <div style="display: flex;">
 <table align="left">
 	<tbody>
