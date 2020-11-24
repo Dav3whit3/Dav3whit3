@@ -44,21 +44,22 @@
  <summary> 😇 <b>⚡ Tech Stack</b>: </summary>
 <br>
 <div align="center">
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/python-icon.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/dj.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/jp.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/scala.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/plot_ly-ar21.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/databricks.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/docker-ar21.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/git.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/linux-ar21.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/redis-ar21.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/sqlite-ar21.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/mysql-ar21.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
+        <code> <img height="50" src="img/python-icon.svg"> </code>
+        <code> <img height="50" src="img/dj.svg"> </code>
+        <code> <img height="50" src="img/jp.svg"> </code>
+        <code> <img height="50" src="img/scala.svg"> </code>
+        <code> <img height="50" src="img/plot_ly-ar21.svg"> </code>
+        <code> <img height="50" src="img/databricks.svg"> </code>
+        <code> <img height="50" src="img/docker-ar21.svg"> </code>
+        <code> <img height="50" src="img/git.svg"> </code>
+        <code> <img height="50" src="img/linux-ar21.svg"> </code>
+        <code> <img height="50" src="img/apache_hadoop-ar21.svg"> </code>
+        <code> <img height="50" src="himg/redis-ar21.svg"> </code>
+        <code> <img height="50" src="himg/mongodb-ar21.svg"> </code>
+        <code> <img height="50" src="img/sqlite-ar21.svg"> </code>
+        <code> <img height="50" src="img/mysql-ar21.svg"> </code>
+        <code> <img height="50" src="img/postgresql-ar21.svg"> </code>
+        <code> <img height="50" src="img/dash.png"> </code>
 </div>
 </details>
 
@@ -66,13 +67,15 @@
  <summary> 😇 <b>⚡ Tech in Progress</b>: </summary>
 <br>
 <div align="center">
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/scala.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/plot_ly-ar21.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/databricks.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/docker-ar21.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/apache_hadoop-ar21.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/redis-ar21.svg"> </code>
-        <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/mongodb-ar21.svg"> </code>
+        <code> <img height="50" src="img/apache_hadoop-ar21.svg"> </code>
+        <code> <img height="50" src="himg/redis-ar21.svg"> </code>
+        <code> <img height="50" src="himg/mongodb-ar21.svg"> </code>
+        <code> <img height="50" src="img/plot_ly-ar21.svg"> </code>
+        <code> <img height="50" src="img/databricks.svg"> </code>
+        <code> <img height="50" src="himg/docker-ar21.svg"> </code>
+        <code> <img height="50" src="img/apache_hadoop-ar21.svg"> </code>
+        <code> <img height="50" src="img/redis-ar21.svg"> </code>
+        <code> <img height="50" src="img/mongodb-ar21.svg"> </code>
     </div>
 <br>
 <div>
@@ -95,5 +98,3 @@
 <div align="center">
     <img src="img/footer.png" width="100%"/>
 </div>
-
-<code> <img height="50" src="img/dash.png"> </code>
