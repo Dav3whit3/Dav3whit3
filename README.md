@@ -43,8 +43,6 @@
 <details open>
  <summary> 😇 <b>⚡ Tech Stack</b>: </summary>
 <br>
-
-<div style="display: inline; flex.flow: row wrap">
     <div align="left">
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/python-icon.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/dj.svg"> </code>
@@ -81,8 +79,7 @@
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/mysql-ar21.svg"> </code>
         <code> <img height="50" src="https://github.com/Dav3whit3/-/blob/master/resource/other/postgresql-ar21.svg"> </code>
     </div>
-    
-</div>
+
 
 <div>
     <img src="img/separator.png" width="100%"/>
