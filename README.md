@@ -39,6 +39,7 @@
 </div>
 
 </details>
+
 <details open>
  <summary> 😇 <b>⚡ Tech Stack</b>: </summary>
 <br>
