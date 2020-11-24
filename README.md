@@ -26,7 +26,7 @@
  <summary> 😇 <b>⚡ Tech Stack</b>: </summary>
 <br>
 
-<div align="right" style="margin-right:90px;">
+<div align="center" style="margin-right:90px;">
     <b>Contact me:</b>
 </div>
 
@@ -52,7 +52,6 @@
 </table>
 
 <div align="center" style="margin-right:90px;">
-    Contact me:
     <img height="40px" src="https://simpleicons.org/icons/gmail.svg" />
 </div>
 
