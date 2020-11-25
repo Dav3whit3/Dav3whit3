@@ -15,6 +15,8 @@
     </div>
 </div>
 
+---
+
 <details open>
  <summary> 😇 <b>About me👋</b>: </summary>
 <br>
@@ -28,7 +30,10 @@
 - 💬 
 - 📬 
 - 🧗 
-- ⚡ Fun fact: 
+- ⚡ Fun fact:
+<br>
+<br>
+ 
 </details>
 
 <div align="center">
