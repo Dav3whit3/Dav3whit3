@@ -21,19 +21,7 @@
  <summary> 😇 <b>About me👋</b>: </summary>
 <br>
 
-<div align="right">
-        <code> <img height="50" src="img/python-icon.svg"> </code>
-        <code> <img height="50" src="img/postgresql-ar21.svg"> </code>
-        <code> <img height="60" src="img/spark.png"> </code>
-        <code> <img height="50" src="img/scala.svg"> </code>
-        <code> <img height="50" src="img/amazon_aws-ar21.svg"> </code>
-        <code> <img height="50" src="img/plot_ly-ar21.svg"> </code>
-        <code> <img height="50" src="img/jp.svg"> </code>
-        <code> <img height="50" src="img/docker-ar21.svg"> </code>
-        <code> <img height="50" src="img/git.svg"> </code>
-        <code> <img height="50" src="img/linux-ar21.svg"> </code>
-        <code> <img height="40" src="img/dash.png"> </code>
-</div>
+<img align="right" height="200px" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
 - 🔭 I’m a graduated Dat Analytics Bootcamp student (and also an economist)
 - 🌱 I’m currently expanding my Data stack: 
@@ -56,7 +44,19 @@
 <details open>
  <summary> 😇 <b>⚡ Tech Stack</b>: </summary>
 <br>
-
+<div align="right">
+        <code> <img height="50" src="img/python-icon.svg"> </code>
+        <code> <img height="50" src="img/postgresql-ar21.svg"> </code>
+        <code> <img height="60" src="img/spark.png"> </code>
+        <code> <img height="50" src="img/scala.svg"> </code>
+        <code> <img height="50" src="img/amazon_aws-ar21.svg"> </code>
+        <code> <img height="50" src="img/plot_ly-ar21.svg"> </code>
+        <code> <img height="50" src="img/jp.svg"> </code>
+        <code> <img height="50" src="img/docker-ar21.svg"> </code>
+        <code> <img height="50" src="img/git.svg"> </code>
+        <code> <img height="50" src="img/linux-ar21.svg"> </code>
+        <code> <img height="40" src="img/dash.png"> </code>
+</div>
 </details>
 
 ---
