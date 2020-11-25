@@ -44,7 +44,7 @@
 <details open>
  <summary> 😇 <b>⚡ Tech Stack</b>: </summary>
 <br>
-<div align="right">
+<div align="center">
         <code> <img height="50" src="img/python-icon.svg"> </code>
         <code> <img height="50" src="img/postgresql-ar21.svg"> </code>
         <code> <img height="60" src="img/spark.png"> </code>
@@ -97,4 +97,34 @@
 
 <div align="center">
     <img src="img/fgrey.svg" width="100%"/>
+</div>
+
+<style>
+.demo div {
+    float: left;
+    clear: none;
+}
+</style>
+<div class="demo">
+- 🔭 I’m a graduated Dat Analytics Bootcamp student (and also an economist)
+- 🌱 I’m currently expanding my Data stack: 
+- 👯 
+- 🥅 
+- 💬 
+- 📬 
+- 🧗 
+- ⚡ Fun fact:
+</div>
+<div class="demo">
+        <code> <img height="50" src="img/apache_hadoop-ar21.svg"> </code>
+        <code> <img height="50" src="img/redis-ar21.svg"> </code>
+        <code> <img height="50" src="img/mongodb-ar21.svg"> </code>
+        <code> <img height="50" src="img/plot_ly-ar21.svg"> </code>
+        <code> <img height="50" src="img/databricks.svg"> </code>
+        <code> <img height="50" src="img/docker-ar21.svg"> </code>
+        <code> <img height="50" src="img/apache_hadoop-ar21.svg"> </code>
+        <code> <img height="50" src="img/redis-ar21.svg"> </code>
+        <code> <img height="50" src="img/mongodb-ar21.svg"> </code>
+        <code> <img height="50" src="img/flask.svg"> </code>
+        <code> <img height="50" src="img/databricks.svg"> </code>
 </div>
