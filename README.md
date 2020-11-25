@@ -15,7 +15,23 @@
     </div>
 </div>
 
----
+<details open>
+ <summary> 😇 <b>⚡ Tech Stack</b>: </summary>
+<br>
+<div align="center">
+        <code> <img height="50" src="img/python-icon.svg"> </code>
+        <code> <img height="50" src="img/postgresql-ar21.svg"> </code>
+        <code> <img height="60" src="img/spark.png"> </code>
+        <code> <img height="50" src="img/scala.svg"> </code>
+        <code> <img height="50" src="img/amazon_aws-ar21.svg"> </code>
+        <code> <img height="50" src="img/plot_ly-ar21.svg"> </code>
+        <code> <img height="50" src="img/jp.svg"> </code>
+        <code> <img height="50" src="img/docker-ar21.svg"> </code>
+        <code> <img height="50" src="img/git.svg"> </code>
+        <code> <img height="50" src="img/linux-ar21.svg"> </code>
+        <code> <img height="40" src="img/dash.png"> </code>
+</div>
+</details>
 
 <details open>
  <summary> 😇 <b>About me👋</b>: </summary>
@@ -40,26 +56,6 @@
 <div align="center">
     <img src="img/hgrey.svg" width="100%"/>
 </div>
-
-<details open>
- <summary> 😇 <b>⚡ Tech Stack</b>: </summary>
-<br>
-<div align="center">
-        <code> <img height="50" src="img/python-icon.svg"> </code>
-        <code> <img height="50" src="img/postgresql-ar21.svg"> </code>
-        <code> <img height="60" src="img/spark.png"> </code>
-        <code> <img height="50" src="img/scala.svg"> </code>
-        <code> <img height="50" src="img/amazon_aws-ar21.svg"> </code>
-        <code> <img height="50" src="img/plot_ly-ar21.svg"> </code>
-        <code> <img height="50" src="img/jp.svg"> </code>
-        <code> <img height="50" src="img/docker-ar21.svg"> </code>
-        <code> <img height="50" src="img/git.svg"> </code>
-        <code> <img height="50" src="img/linux-ar21.svg"> </code>
-        <code> <img height="40" src="img/dash.png"> </code>
-</div>
-</details>
-
----
 
 <details open>
  <summary> 😇 <b>⚡ Tech in Progress</b>: </summary>
@@ -98,46 +94,3 @@
 <div align="center">
     <img src="img/fgrey.svg" width="100%"/>
 </div>
-
-<div style="display: flex">
-<table>
-	<tbody>
-		<tr>
-			<td>&nbsp;🔭 I’m a graduated Dat Analytics Bootcamp student (and also an economist)</td>
-		</tr>
-	</tbody>
-</table>
-<table style="float: left;">
-	<tbody>
-		<tr>
-			<td>&nbsp;<code> <img height="50" src="img/apache_hadoop-ar21.svg"> </code></td>
-		</tr>
-	</tbody>
-</table>
-</div>
----
-
-
-- 🔭 I’m a graduated Dat Analytics Bootcamp student (and also an economist)
-- 🌱 I’m currently expanding my Data stack: 
-- 👯 
-- 🥅 
-- 💬 
-- 📬 
-- 🧗 
-- ⚡ Fun fact:
-
-<div class="demo">
-        <code> <img height="50" src="img/apache_hadoop-ar21.svg"> </code>
-        <code> <img height="50" src="img/redis-ar21.svg"> </code>
-        <code> <img height="50" src="img/mongodb-ar21.svg"> </code>
-        <code> <img height="50" src="img/plot_ly-ar21.svg"> </code>
-        <code> <img height="50" src="img/databricks.svg"> </code>
-        <code> <img height="50" src="img/docker-ar21.svg"> </code>
-        <code> <img height="50" src="img/apache_hadoop-ar21.svg"> </code>
-        <code> <img height="50" src="img/redis-ar21.svg"> </code>
-        <code> <img height="50" src="img/mongodb-ar21.svg"> </code>
-        <code> <img height="50" src="img/flask.svg"> </code>
-        <code> <img height="50" src="img/databricks.svg"> </code>
-</div>
-
