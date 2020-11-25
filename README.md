@@ -44,13 +44,13 @@
 <img align="right" height="200px" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
 - 🔭 I’m a graduated Dat Analytics Bootcamp student (and also an economist)
-- 🌱 I’m currently expanding my Data stack: 
-- 👯 
-- 🥅 
-- 💬 
-- 📬 
-- 🧗 
-- ⚡ Fun fact:
+- 🌱 I’m currently expanding my Data stack (check below!)
+- 👯 Analytical and Empathetic personality
+- 🥅 Numbers + Build utility + Make things work
+- 💬 Problem solver adict
+- 📬 Tech eater
+- 🧗 Previous economist & banking industry professional
+- ⚡ Fun fact: I'm a japanese culture fan
 <br>
 
 ---
@@ -58,7 +58,7 @@
 </details>
 
 <div align="center">
-    <img src="img/hgrey.svg" width="100%" height="70%"/>
+    <img src="img/hgrey.svg" width="100%"/>
 </div>
 
 <details open>
@@ -81,7 +81,7 @@
 
 </details>
 <div>
-    <img src="img/sgrey.svg" width="100%" height="70%"/>
+    <img src="img/sgrey.svg" width="100%"/>
 </div>
 
 <details open>
@@ -96,5 +96,5 @@
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Dav3whit3"/>
 
 <div align="center">
-    <img src="img/fgrey.svg" width="100%" height="70%"/>
+    <img src="img/fgrey.svg" width="100%"/>
 </div>
