@@ -32,7 +32,7 @@
 - 🧗 
 - ⚡ Fun fact:
 <br>
-<br>
+---
  
 </details>
 
@@ -77,11 +77,11 @@
         <code> <img height="50" src="img/databricks.svg"> </code>
     </div>
 <br>
+
+</details>
 <div>
     <img src="img/separator.png" width="100%"/>
 </div>
-
-</details>
 
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
