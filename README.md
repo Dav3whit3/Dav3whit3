@@ -1,11 +1,5 @@
 <img src="img/banner.png" width="100%"/>
 
-<div align="center">
-    <img src="img/ht3.png" width="100%"/>
-</div>
-
-<h1 align="center"><b>Hello there, I'm David Blanco 👋</b></h1>
-
 <div align="center" style="margin-right:10px">
     <div>
         <b>Contact me:</b>
@@ -25,7 +19,9 @@
  <summary> 😇 <b>About me👋</b>: </summary>
 <br>
 
-<img align="right" height="200px" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+<div align="center">
+    <img src="img/ht3.png" width="100%"/>
+</div>
 
 - 🔭 I’m a graduated Dat Analytics Bootcamp student (and also an economist)
 - 🌱 I’m currently expanding my Data stack: 
