@@ -22,16 +22,17 @@
 <br>
 <div align="center">
         <code> <img height="50" src="img/python-icon.svg"> </code>
-        <code> <img height="50" src="img/postgresql-ar21.svg"> </code>
+        <code> <img height="50" src="img/sql.svg"> </code>
         <code> <img height="60" src="img/spark.png"> </code>
         <code> <img height="50" src="img/scala.svg"> </code>
         <code> <img height="50" src="img/amazon_aws-ar21.svg"> </code>
         <code> <img height="50" src="img/plot_ly-ar21.svg"> </code>
         <code> <img height="50" src="img/jp.svg"> </code>
+        <code> <img height="50" src="img/postgresql-ar21.svg"> </code>
         <code> <img height="50" src="img/docker-ar21.svg"> </code>
+        <code> <img height="40" src="img/dash.png"> </code>
         <code> <img height="50" src="img/git.svg"> </code>
         <code> <img height="50" src="img/linux-ar21.svg"> </code>
-        <code> <img height="40" src="img/dash.png"> </code>
 </div>
 </details>
 
