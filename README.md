@@ -100,14 +100,14 @@
 </div>
 
 <div>
-<table align="left;">
+<table style="float: left;">
 	<tbody>
 		<tr>
 			<td>&nbsp;🔭 I’m a graduated Dat Analytics Bootcamp student (and also an economist)</td>
 		</tr>
 	</tbody>
 </table>
-<table align="center;">
+<table style="float: left;">
 	<tbody>
 		<tr>
 			<td>&nbsp;<code> <img height="50" src="img/apache_hadoop-ar21.svg"> </code></td>
