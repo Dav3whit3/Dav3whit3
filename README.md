@@ -19,10 +19,6 @@
  <summary> 😇 <b>About me👋</b>: </summary>
 <br>
 
-<div align="center">
-    <img src="img/ht3.png" width="100%"/>
-</div>
-
 - 🔭 I’m a graduated Dat Analytics Bootcamp student (and also an economist)
 - 🌱 I’m currently expanding my Data stack: 
 - 👯 
@@ -33,7 +29,7 @@
 - ⚡ Fun fact: 
 
 <div align="center">
-    <img src="img/separator.png" width="100%"/>
+    <img src="img/ht3.png" width="100%"/>
 </div>
 
 </details>
