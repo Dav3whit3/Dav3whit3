@@ -58,7 +58,7 @@
 </details>
 
 <div align="center">
-    <img src="img/hgrey.svg" width="100%"/>
+    <img src="img/hgrey.svg" width="100%" height="50px"/>
 </div>
 
 <details open>
@@ -81,7 +81,7 @@
 
 </details>
 <div>
-    <img src="img/sgrey.svg" width="100%"/>
+    <img src="img/sgrey.svg" width="100%" height="50px"/>
 </div>
 
 <details open>
@@ -96,5 +96,5 @@
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Dav3whit3"/>
 
 <div align="center">
-    <img src="img/fgrey.svg" width="100%"/>
+    <img src="img/fgrey.svg" width="100%" height="50px"/>
 </div>
