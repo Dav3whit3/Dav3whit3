@@ -1,3 +1,5 @@
+<img src="img/banner.png" width="100%"/>
+
 <div align="center">
     <img src="img/ht3.png" width="100%"/>
 </div>
