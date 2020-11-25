@@ -38,7 +38,7 @@
 </details>
 
 <div align="center">
-    <img src="img/ht3.png" width="100%"/>
+    <img src="img/hgrey.png" width="100%"/>
 </div>
 
 <details open>
@@ -74,14 +74,14 @@
         <code> <img height="50" src="img/apache_hadoop-ar21.svg"> </code>
         <code> <img height="50" src="img/redis-ar21.svg"> </code>
         <code> <img height="50" src="img/mongodb-ar21.svg"> </code>
-        <code> <img height="50" src="img/dj.svg"> </code>
+        <code> <img height="50" src="img/flask.svg"> </code>
         <code> <img height="50" src="img/databricks.svg"> </code>
     </div>
 <br>
 
 </details>
 <div>
-    <img src="img/separator.png" width="100%"/>
+    <img src="img/sgrey.png" width="100%"/>
 </div>
 
 <details open>
@@ -96,5 +96,5 @@
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Dav3whit3"/>
 
 <div align="center">
-    <img src="img/footer.png" width="100%"/>
+    <img src="img/fgrey.png" width="100%"/>
 </div>
