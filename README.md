@@ -99,8 +99,8 @@
     <img src="img/fgrey.svg" width="100%"/>
 </div>
 
-<div>
-<table style="float: left;">
+<div style="display: flex">
+<table>
 	<tbody>
 		<tr>
 			<td>&nbsp;🔭 I’m a graduated Dat Analytics Bootcamp student (and also an economist)</td>
