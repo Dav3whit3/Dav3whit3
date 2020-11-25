@@ -99,13 +99,24 @@
     <img src="img/fgrey.svg" width="100%"/>
 </div>
 
-<style>
-.demo div {
-    float: left;
-    clear: none;
-}
-</style>
-<div class="demo">
+<table style="float: left;">
+	<tbody>
+		<tr>
+			<td>&nbsp;🔭 I’m a graduated Dat Analytics Bootcamp student (and also an economist)</td>
+		</tr>
+	</tbody>
+</table>
+<table style="float: center;">
+	<tbody>
+		<tr>
+			<td>&nbsp;<code> <img height="50" src="img/apache_hadoop-ar21.svg"> </code></td>
+		</tr>
+	</tbody>
+</table>
+
+---
+
+
 - 🔭 I’m a graduated Dat Analytics Bootcamp student (and also an economist)
 - 🌱 I’m currently expanding my Data stack: 
 - 👯 
@@ -114,7 +125,7 @@
 - 📬 
 - 🧗 
 - ⚡ Fun fact:
-</div>
+
 <div class="demo">
         <code> <img height="50" src="img/apache_hadoop-ar21.svg"> </code>
         <code> <img height="50" src="img/redis-ar21.svg"> </code>
@@ -128,3 +139,4 @@
         <code> <img height="50" src="img/flask.svg"> </code>
         <code> <img height="50" src="img/databricks.svg"> </code>
 </div>
+
