@@ -99,6 +99,7 @@
     <img src="img/fgrey.svg" width="100%"/>
 </div>
 
+<div>
 <table align="left;">
 	<tbody>
 		<tr>
@@ -113,7 +114,7 @@
 		</tr>
 	</tbody>
 </table>
-
+</div>
 ---
 
 
