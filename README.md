@@ -19,6 +19,8 @@
  <summary> 😇 <b>About me👋</b>: </summary>
 <br>
 
+<img align="right" height="200px" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+
 - 🔭 I’m a graduated Dat Analytics Bootcamp student (and also an economist)
 - 🌱 I’m currently expanding my Data stack: 
 - 👯 
@@ -27,12 +29,11 @@
 - 📬 
 - 🧗 
 - ⚡ Fun fact: 
+</details>
 
 <div align="center">
     <img src="img/ht3.png" width="100%"/>
 </div>
-
-</details>
 
 <details open>
  <summary> 😇 <b>⚡ Tech Stack</b>: </summary>
