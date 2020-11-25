@@ -99,14 +99,14 @@
     <img src="img/fgrey.svg" width="100%"/>
 </div>
 
-<table style="float: left;">
+<table align="left;">
 	<tbody>
 		<tr>
 			<td>&nbsp;🔭 I’m a graduated Dat Analytics Bootcamp student (and also an economist)</td>
 		</tr>
 	</tbody>
 </table>
-<table style="float: center;">
+<table align="center;">
 	<tbody>
 		<tr>
 			<td>&nbsp;<code> <img height="50" src="img/apache_hadoop-ar21.svg"> </code></td>
