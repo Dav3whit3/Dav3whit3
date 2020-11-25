@@ -15,6 +15,8 @@
     </div>
 </div>
 
+---
+
 <details open>
  <summary> 😇 <b>⚡ Tech Stack</b>: </summary>
 <br>
@@ -32,6 +34,8 @@
         <code> <img height="40" src="img/dash.png"> </code>
 </div>
 </details>
+
+---
 
 <details open>
  <summary> 😇 <b>About me👋</b>: </summary>
