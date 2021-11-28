@@ -23,10 +23,11 @@
 <div align="center">
         <code> <img height="50" src="img/python-icon.svg"> </code>
         <code> <img height="40" src="img/javascript.png"> </code>
+        <code> <img height="40" src="img/html5.png"> </code>
         <code> <img height="50" src="img/sql.svg"> </code>
-        <code> <img height="50" src="img/amazon_aws-ar21.svg"> </code>
+        <code> <img height="50" src="img/flask.svg"> </code>
+        <code> <img height="50" src="img/mongodb-ar21.svg"> </code>
         <code> <img height="50" src="img/plot_ly-ar21.svg"> </code>
-        <code> <img height="50" src="img/jp.svg"> </code>
         <code> <img height="50" src="img/postgresql-ar21.svg"> </code>
         <code> <img height="50" src="img/docker-ar21.svg"> </code>
         <code> <img height="50" src="img/git.svg"> </code>
@@ -64,12 +65,7 @@
  <summary> <b>⚡ Tech in Progress</b>: </summary>
 <br>
 <div align="center">
-        <code> <img height="50" src="img/apache_hadoop-ar21.svg"> </code>
-        <code> <img height="50" src="img/redis-ar21.svg"> </code>
-        <code> <img height="50" src="img/mongodb-ar21.svg"> </code>
-        <code> <img height="50" src="img/databricks.svg"> </code>
-        <code> <img height="50" src="img/docker-ar21.svg"> </code>
-        <code> <img height="50" src="img/flask.svg"> </code>
+    <code> <img height="50" src="img/amazon_aws-ar21.svg"> </code>
     </div>
 <br>
 
