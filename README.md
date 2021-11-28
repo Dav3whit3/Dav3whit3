@@ -22,8 +22,7 @@
 <br>
 <div align="center">
         <code> <img height="50" src="img/python-icon.svg"> </code>
-        <code> <img height="50" src="img/javascript.png"> </code>
-        <code> <img height="50" src="img/javascript.ico"> </code>
+        <code> <img height="40" src="img/javascript.png"> </code>
         <code> <img height="50" src="img/sql.svg"> </code>
         <code> <img height="50" src="img/amazon_aws-ar21.svg"> </code>
         <code> <img height="50" src="img/plot_ly-ar21.svg"> </code>
