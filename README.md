@@ -48,6 +48,7 @@
 <br>
 <div align="center">
     <code> <img height="50" src="img/amazon_aws-ar21.svg"> </code>
+    <code> <img height="50" src="img/express-js.png"> </code>
     </div>
 <br>
 
