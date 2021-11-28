@@ -27,11 +27,11 @@
         <code> <img height="50" src="img/sql.svg"> </code>
         <code> <img height="50" src="img/flask.svg"> </code>
         <code> <img height="50" src="img/mongodb-ar21.svg"> </code>
-        <code> <img height="50" src="img/plot_ly-ar21.svg"> </code>
-        <code> <img height="50" src="img/postgresql-ar21.svg"> </code>
         <code> <img height="50" src="img/docker-ar21.svg"> </code>
         <code> <img height="50" src="img/git.svg"> </code>
         <code> <img height="50" src="img/linux-ar21.svg"> </code>
+        <code> <img height="50" src="img/bootstrap.svg"> </code>
+        <code> <img height="50" src="img/tailwindcss.svg"> </code>
 </div>
 </details>
 
