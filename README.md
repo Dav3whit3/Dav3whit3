@@ -37,29 +37,11 @@
 
 ---
 
-<details open>
- <summary> 😇 <b>About me👋</b>: </summary>
-<br>
 
-<img align="right" height="200px" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
-- 🔭 I’m a graduated Dat Analytics Bootcamp student (and also an economist)
-- 🌱 I’m currently expanding my Data stack (check below!)
-- 👯 Analytical and Empathetic personality
-- 🥅 Numbers + Build utility + Make things work
-- 💬 Problem solver adict
-- 📬 Tech eater
-- 🧗 Previous economist & banking industry professional
-- ⚡ Fun fact: I'm a japanese culture fan
-<br>
-
----
- 
-</details>
-
-<div align="center">
+<!-- <div align="center">
     <img src="img/hgrey.svg" width="100%"/>
-</div>
+</div> -->
 
 <details open>
  <summary> <b>⚡ Tech in Progress</b>: </summary>
@@ -70,6 +52,27 @@
 <br>
 
 </details>
+
+<details open>
+ <summary> 😇 <b>About me👋</b>: </summary>
+<br>
+
+<img align="right" height="200px" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+
+- 🔭 I’m a graduated Data Analytics Bootcamp student (and also an economist)
+- 🌱 I’m currently working as a Python Web Developer and expanding my web stack (Check below!)
+- 👯 Analytical and Empathetic personality
+- 🥅 Numbers + Build utility + Make things work
+- 💬 Problem solver & debugger adict
+- 📬 Tech eater
+- 🧗 Previous economist & banking industry professional
+- ⚡ Fun fact: I'm a japanese culture fan
+<br>
+
+---
+ 
+</details>
+
 <div>
     <img src="img/sgrey.svg" width="100%"/>
 </div>
