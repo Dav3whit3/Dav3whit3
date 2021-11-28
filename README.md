@@ -31,7 +31,7 @@
         <code> <img height="50" src="img/git.svg"> </code>
         <code> <img height="50" src="img/linux-ar21.svg"> </code>
         <code> <img height="50" src="img/bootstrap.svg"> </code>
-        <code> <img height="70" src="img/tailwindcss.svg"> </code>
+        <code> <img height="50" src="img/Tailwind-CSS-logo.svg"> </code>
 </div>
 </details>
 
