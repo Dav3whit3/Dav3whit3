@@ -25,7 +25,7 @@
         <code> <img height="40" src="img/javascript.png"> </code>
         <code> <img height="60" src="img/CSS3_HTML5.svg"> </code>
         <code> <img height="50" src="img/sql.svg"> </code>
-        <code> <img height="40" src="img/django.svg"> </code>
+        <code> <img height="70" src="img/django.png"> </code>
         <code> <img height="50" src="img/flask.svg"> </code>
         <code> <img height="50" src="img/mongodb-ar21.svg"> </code>
         <code> <img height="50" src="img/docker-ar21.svg"> </code>
