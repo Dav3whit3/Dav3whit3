@@ -23,11 +23,14 @@
 <div align="center">
         <code> <img height="50" src="img/python-icon.svg"> </code>
         <code> <img height="40" src="img/javascript.png"> </code>
-        <code> <img height="60" src="img/CSS3_HTML5.svg"> </code>
+         <code> <img height="50" src="img/express-js.png"> </code>
+         <img height="70" src="img/django.png">
+         <code> <img height="50" src="img/node-js.png"> </code>
         <code> <img height="50" src="img/sql.svg"> </code>
-        <img height="70" src="img/django.png">
-        <code> <img height="50" src="img/flask.svg"> </code>
         <code> <img height="50" src="img/mongodb-ar21.svg"> </code>
+        <code> <img height="50" src="img/react.png"> </code>
+        <code> <img height="60" src="img/CSS3_HTML5.svg"> </code>
+        <code> <img height="50" src="img/flask.svg"> </code>
         <code> <img height="50" src="img/docker-ar21.svg"> </code>
         <code> <img height="50" src="img/git.svg"> </code>
         <code> <img height="50" src="img/linux-ar21.svg"> </code>
@@ -38,8 +41,6 @@
 
 ---
 
-
-
 <!-- <div align="center">
     <img src="img/hgrey.svg" width="100%"/>
 </div> -->
@@ -48,7 +49,6 @@
  <summary> <b>⚡ Tech in Progress</b>: </summary>
 <br>
 <div align="center">
-    <code> <img height="50" src="img/amazon_aws-ar21.svg"> </code>
     <code> <img height="50" src="img/express-js.png"> </code>
     <code> <img height="50" src="img/node-js.png"> </code>
     <code> <img height="50" src="img/react.png"> </code>
@@ -71,10 +71,10 @@
 - 📬 Tech eater
 - 🧗 Previous economist & banking industry professional
 - ⚡ Fun fact: I'm a japanese culture fan
-<br>
+  <br>
 
 ---
- 
+
 </details>
 
 <div>
