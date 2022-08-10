@@ -21,9 +21,7 @@
 <br>
 
 <div>
-😇 <b>About me👋</b>:
-<br>
-
+😇 <b>About me👋</b>: <br>  
 🔭 I’m a graduated both Web Development and Data Analytics Bootcamp student, currently working as a Full Stack Web Developer
 🌱 I also like to learn new tech and build software on my own time
 👯 Analytical and Empathetic personality  
