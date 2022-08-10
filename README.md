@@ -17,7 +17,7 @@
 
 ---
 
-
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	<a href="https://www.python.org" target="_blank">
@@ -134,7 +134,7 @@
 	</a>
 	<a href="" target="_blank">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original-wordmark.svg"
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg"
 			alt="svelte"
 			width="40"
 			height="40"
@@ -149,6 +149,7 @@
 		/>
 	</a>    
 </p>
+
 
 
 <details open>
