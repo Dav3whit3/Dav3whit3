@@ -10,7 +10,7 @@
         <a href="">
         <img align="left" alt="Abhishek Naidu | Twitter" width="27px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
         </a>
-        <a href="https://www.linkedin.com/in/david-white-madrid/">
+        <a target="_blank" href="https://www.linkedin.com/in/david-white-madrid/">
         <img align="left" alt="Abhishek's LinkedIN" width="27px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
         </a>
         <a href="https://git.io/typing-svg">
@@ -25,10 +25,10 @@
 - 🔭 I’m a graduated both Web Development and Data Analytics Bootcamp student, currently working as a Full Stack Web Developer
 - 🌱 I also like to learn new tech and build software on my own time aasddasdasdasdasdasdasdas
 - 👯 Analytical and Empathetic personality aasddasdasdasdasdasdasdasaasddasdasdasdasdasdasdas
-- 🥅 Numbers + Build utility + Make things work aasddasdasdasdasdasdasdasaasddasdasdasdasdasdasdas
+- 🥅 I love to build new stuff whether it is an application, an script or any piece of code that creates utility
     <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="550">
     <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" /> -->
-- 💬 Problem solver & debugger adict aasddasdasdasdasdasdasdas
+- 💬 Problem solver & debugger adict 
 - 📬 Tech eater
 - 🧗 Previous economist & banking industry professional
 - ⚡ Fun fact: I'm a japanese culture fan
