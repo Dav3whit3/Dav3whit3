@@ -174,6 +174,7 @@
 </p>
 
 <div align="center" style="margin-right:10px">
+<br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Dav3whit3&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
