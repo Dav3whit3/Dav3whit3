@@ -16,52 +16,9 @@
 </div>
 
 ---
-
-<details open>
- <summary> 😇 <b>⚡ Tech Stack</b>: </summary>
-<br>
-<div align="center">
-        <code> <img height="50" src="img/python-icon.svg"> </code>
-        <code> <img height="40" src="img/javascript.png"> </code>
-         <code> <img height="50" src="img/express-js.png"> </code>
-         <img height="70" src="img/django.png">
-         <code> <img height="50" src="img/node-js.png"> </code>
-        <code> <img height="50" src="img/sql.svg"> </code>
-        <code> <img height="50" src="img/mongodb-ar21.svg"> </code>
-        <code> <img height="50" src="img/react.png"> </code>
-        <code> <img height="60" src="img/CSS3_HTML5.svg"> </code>
-        <code> <img height="50" src="img/flask.svg"> </code>
-        <code> <img height="50" src="img/docker-ar21.svg"> </code>
-        <code> <img height="50" src="img/git.svg"> </code>
-        <code> <img height="50" src="img/linux-ar21.svg"> </code>
-        <code> <img height="50" src="img/bootstrap.svg"> </code>
-        <code> <img height="40" src="img/Tailwind-CSS-logo.svg"> </code>
-</div>
-</details>
-
----
-
-<!-- <div align="center">
-    <img src="img/hgrey.svg" width="100%"/>
-</div> -->
-
-<details open>
- <summary> <b>⚡ Tech in Progress</b>: </summary>
-<br>
-<div align="center">
-    <code> <img height="50" src="img/express-js.png"> </code>
-    <code> <img height="50" src="img/node-js.png"> </code>
-    <code> <img height="50" src="img/react.png"> </code>
-    </div>
-<br>
-
-</details>
-
 <details open>
  <summary> 😇 <b>About me👋</b>: </summary>
 <br>
-
-<img align="right" height="200px" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
 - 🔭 I’m a graduated Data Analytics Bootcamp student (and also an economist)
 - 🌱 I’m currently working as a Python Web Developer and expanding my web stack (Check below!)
@@ -76,22 +33,144 @@
 ---
 
 </details>
-
-<div>
-    <img src="img/sgrey.svg" width="100%"/>
-</div>
-
-<details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Dav3whit3&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Dav3whit3&hide=css,java,html&theme=tokyonight">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+	<a href="https://www.python.org" target="_blank">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+			alt="python"
+			width="40"
+			height="40"
+		/>
+	</a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+			alt="javascript"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://www.w3schools.com/css/" target="_blank">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+			alt="css3"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://www.w3.org/html/" target="_blank">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+			alt="html5"
+			width="40"
+			height="40"
+		/>
+	</a>    
+	<a href="https://www.docker.com/" target="_blank">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+			alt="docker"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://git-scm.com/" target="_blank">
+		<img
+			src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+			alt="git"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://golang.org" target="_blank">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+			alt="go"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://kubernetes.io" target="_blank">
+		<img
+			src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
+			alt="kubernetes"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://www.linux.org/" target="_blank">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+			alt="linux"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://www.mongodb.com/" target="_blank">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+			alt="mongodb"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://www.postgresql.org" target="_blank">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+			alt="postgresql"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://reactjs.org/" target="_blank">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+			alt="react"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://reactnative.dev/" target="_blank">
+		<img
+			src="https://reactnative.dev/img/header_logo.svg"
+			alt="reactnative"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://vuejs.org/" target="_blank">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+			alt="vuejs"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="" target="_blank">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original-wordmark.svg"
+			alt="svelte"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="" target="_blank">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+			alt="tailwind"
+			width="40"
+			height="40"
+		/>
+	</a>    
 </p>
-</details>
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Dav3whit3"/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Dav3whit3&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-<div align="center">
-    <img src="img/fgrey.svg" width="100%"/>
-</div>
+![](https://raw.githubusercontent.com/Dav3whit3/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/Dav3whit3/github-stats-transparent/output/generated/languages.svg)
+
+---
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sk8kid&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+
