@@ -1,4 +1,6 @@
-<div align="left" style="margin-right:10px">
+<img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
+<div align="right" style="margin-right:10px">
     <div align="left" style="margin-right:10px">
         <a href="mailto:davidblancoferrandez@gmail.com"/>
         <img align="left" alt="" width="27px" src="https://simpleicons.org/icons/gmail.svg"/></a>
