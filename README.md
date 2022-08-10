@@ -165,7 +165,11 @@
 	</a>    
 </p>
 
+<p align="center">
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Dav3whit3&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+</p>
 
 ![](https://raw.githubusercontent.com/Dav3whit3/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/Dav3whit3/github-stats-transparent/output/generated/languages.svg)
