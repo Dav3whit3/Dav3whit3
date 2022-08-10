@@ -136,16 +136,16 @@
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original-wordmark.svg"
 			alt="svelte"
-			width="55"
-			height="55"
+			width="40"
+			height="40"
 		/>
 	</a>
 	<a href="" target="_blank">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"
 			alt="tailwind"
-			width="60"
-			height="60"
+			width="40"
+			height="40"
 		/>
 	</a>    
 </p>
