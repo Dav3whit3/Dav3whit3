@@ -27,7 +27,6 @@
 <br>
 
 <div>
-<details open>
  <summary> 😇 <b>About me👋</b>: </summary>
 <br>
 
@@ -42,7 +41,7 @@
 ⚡ Fun fact: I'm a japanese culture fan  
 <br>
 
-</details>
+
 </div>
 
 <br>
