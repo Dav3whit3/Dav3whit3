@@ -165,10 +165,10 @@
 	</a>    
 </p>
 
+<div style="margin-bottom:50px">
+</div>
 
-
-<div align="center" style="margin-right:10px">
-<br>
+<div align="center"  style="margin-right:10px">
 
 ![](https://raw.githubusercontent.com/Dav3whit3/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/Dav3whit3/github-stats-transparent/output/generated/languages.svg)
@@ -176,7 +176,7 @@
 </div>
 
 ---
-
+<br>
 <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sk8kid&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
