@@ -14,15 +14,10 @@
         <a href="https://www.linkedin.com/in/david-white-madrid/">
         <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
         </a>
-    <h1 align="left">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋;I'm David Blanco....;!&center=true&size=30">
-    </a>
+    <h1 style="margin-left:20px" align="left">
+        <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+David+Blanco" alt="Typing SVG" /></a>
     </h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi👋;I'm+David+Blanco;)](https://git.io/typing-svg)
-    </div>
-</div>
 
 <br>
 <br>
@@ -187,6 +182,7 @@
 </div>
 
 ---
+
 <br>
 <div align="center">
 
