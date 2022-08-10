@@ -15,7 +15,7 @@
         <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
         </a>
         <a href="https://git.io/typing-svg">
-        <img width="22px" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+David+Blanco" alt="Typing SVG" /></a>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+David+Blanco" alt="Typing SVG" /></a>
 
 
 <br>
