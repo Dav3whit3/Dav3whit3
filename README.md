@@ -54,7 +54,7 @@
 		<img
 			src="https://little.kylerconway.com/images/golang-what.gif"
 			alt="go"
-			width="50"
+			width="80"
 			height="40"
 		/>
 	</a>    
