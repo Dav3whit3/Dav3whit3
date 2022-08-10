@@ -27,8 +27,6 @@
 <br>
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
-
 <div>
 <details open>
  <summary> 😇 <b>About me👋</b>: </summary>
@@ -38,6 +36,9 @@
 🌱 I’m currently working as a Python Web Developer and expanding my web stack (Check below!)  
 👯 Analytical and Empathetic personality  
 🥅 Numbers + Build utility + Make things work  
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
+
 💬 Problem solver & debugger adict  
 📬 Tech eater  
 🧗 Previous economist & banking industry professional  
