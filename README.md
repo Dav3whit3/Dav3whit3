@@ -31,11 +31,12 @@
 - ⚡ Fun fact: I'm a japanese culture fan
 </div>
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	<a href="https://www.python.org" target="_blank">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+			src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"
 			alt="python"
 			width="40"
 			height="40"
@@ -43,7 +44,7 @@
 	</a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+			src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp"
 			alt="javascript"
 			width="40"
 			height="40"
@@ -51,9 +52,9 @@
 	</a>
 	<a href="https://golang.org" target="_blank">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+			src="https://little.kylerconway.com/images/golang-what.gif"
 			alt="go"
-			width="40"
+			width="50"
 			height="40"
 		/>
 	</a>    
@@ -99,7 +100,7 @@
 	</a>    
 	<a href="https://vuejs.org/" target="_blank">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+			src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp"
 			alt="vuejs"
 			width="40"
 			height="40"
@@ -107,7 +108,7 @@
 	</a>
 	<a href="https://reactjs.org/" target="_blank">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+			src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp"
 			alt="react"
 			width="40"
 			height="40"
@@ -121,7 +122,7 @@
 			height="40"
 		/>
 	</a>
-	<a href="" target="_blank">
+	<a href="https://tailwindcss.com/" target="_blank">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
 			alt="tailwind"
