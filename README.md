@@ -39,7 +39,6 @@
 📬 Tech eater  
 🧗 Previous economist & banking industry professional  
 ⚡ Fun fact: I'm a japanese culture fan  
-<br>
 
 </div>
 
