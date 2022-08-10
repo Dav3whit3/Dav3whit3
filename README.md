@@ -17,25 +17,7 @@
 
 ---
 
-<details open>
- <summary> 😇 <b>About me👋</b>: </summary>
-<br>
 
-- 🔭 I’m a graduated Data Analytics Bootcamp student (and also an economist)
-- 🌱 I’m currently working as a Python Web Developer and expanding my web stack (Check below!)
-- 👯 Analytical and Empathetic personality
-- 🥅 Numbers + Build utility + Make things work
-- 💬 Problem solver & debugger adict
-- 📬 Tech eater
-- 🧗 Previous economist & banking industry professional
-- ⚡ Fun fact: I'm a japanese culture fan
-  <br>
-
----
-
-</details>
-
-<div align="center" style="margin-right:10px">
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	<a href="https://www.python.org" target="_blank">
@@ -167,6 +149,28 @@
 		/>
 	</a>    
 </p>
+
+
+<details open>
+ <summary> 😇 <b>About me👋</b>: </summary>
+<br>
+
+- 🔭 I’m a graduated Data Analytics Bootcamp student (and also an economist)
+- 🌱 I’m currently working as a Python Web Developer and expanding my web stack (Check below!)
+- 👯 Analytical and Empathetic personality
+- 🥅 Numbers + Build utility + Make things work
+- 💬 Problem solver & debugger adict
+- 📬 Tech eater
+- 🧗 Previous economist & banking industry professional
+- ⚡ Fun fact: I'm a japanese culture fan
+  <br>
+
+---
+
+</details>
+
+
+<div align="center" style="margin-right:10px">
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Dav3whit3&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
