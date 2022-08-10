@@ -142,7 +142,7 @@
 	</a>
 	<a href="" target="_blank">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
 			alt="tailwind"
 			width="40"
 			height="40"
