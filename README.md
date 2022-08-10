@@ -178,8 +178,6 @@
 <div align="center" style="margin-right:10px">
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Dav3whit3&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
 </div>
 
 <div align="center" style="margin-right:10px">
@@ -192,3 +190,5 @@
 ---
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sk8kid&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Dav3whit3&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
