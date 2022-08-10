@@ -26,7 +26,6 @@
 <br>
 <br>
 
-
 <div>
 <details open>
  <summary> 😇 <b>About me👋</b>: </summary>
@@ -37,7 +36,7 @@
 👯 Analytical and Empathetic personality  
 🥅 Numbers + Build utility + Make things work  
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 💬 Problem solver & debugger adict  
 📬 Tech eater  
@@ -47,6 +46,8 @@
 
 </details>
 </div>
+
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
