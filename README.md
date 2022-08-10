@@ -21,12 +21,29 @@
         <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
         </a>                
     </div>
-    ---
+
+
 </div>
 
----
+
+
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<details open>
+ <summary> 😇 <b>About me👋</b>: </summary>
+<br>
+
+- 🔭 I’m a graduated Data Analytics Bootcamp student (and also an economist)
+- 🌱 I’m currently working as a Python Web Developer and expanding my web stack (Check below!)
+- 👯 Analytical and Empathetic personality
+- 🥅 Numbers + Build utility + Make things work
+- 💬 Problem solver & debugger adict
+- 📬 Tech eater
+- 🧗 Previous economist & banking industry professional
+- ⚡ Fun fact: I'm a japanese culture fan
+  <br>
+
+</details>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	<a href="https://www.python.org" target="_blank">
@@ -159,23 +176,6 @@
 	</a>    
 </p>
 
-<details open>
- <summary> 😇 <b>About me👋</b>: </summary>
-<br>
-
-- 🔭 I’m a graduated Data Analytics Bootcamp student (and also an economist)
-- 🌱 I’m currently working as a Python Web Developer and expanding my web stack (Check below!)
-- 👯 Analytical and Empathetic personality
-- 🥅 Numbers + Build utility + Make things work
-- 💬 Problem solver & debugger adict
-- 📬 Tech eater
-- 🧗 Previous economist & banking industry professional
-- ⚡ Fun fact: I'm a japanese culture fan
-  <br>
-
----
-
-</details>
 
 <div align="center" style="margin-right:10px">
 
