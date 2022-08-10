@@ -22,15 +22,15 @@
 
 <div>
 😇 <b>About me👋</b>: <br>  
-🔭 I’m a graduated both Web Development and Data Analytics Bootcamp student, currently working as a Full Stack Web Developer
-🌱 I also like to learn new tech and build software on my own time
-👯 Analytical and Empathetic personality  
-🥅 Numbers + Build utility + Make things work
+- 🔭 I’m a graduated both Web Development and Data Analytics Bootcamp student, currently working as a Full Stack Web Developer
+- 🌱 I also like to learn new tech and build software on my own time
+- 👯 Analytical and Empathetic personality  
+- 🥅 Numbers + Build utility + Make things work
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-💬 Problem solver & debugger adict  
-📬 Tech eater  
-🧗 Previous economist & banking industry professional  
-⚡ Fun fact: I'm a japanese culture fan  
+- 💬 Problem solver & debugger adict  
+- 📬 Tech eater  
+- 🧗 Previous economist & banking industry professional  
+- ⚡ Fun fact: I'm a japanese culture fan  
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
