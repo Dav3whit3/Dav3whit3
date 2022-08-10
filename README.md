@@ -39,10 +39,7 @@
 📬 Tech eater  
 🧗 Previous economist & banking industry professional  
 ⚡ Fun fact: I'm a japanese culture fan  
-
 </div>
-
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -175,7 +172,6 @@
 		/>
 	</a>    
 </p>
-
 
 <div align="center" style="margin-right:10px">
 
