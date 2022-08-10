@@ -52,9 +52,9 @@
 	</a>
 	<a href="https://golang.org" target="_blank">
 		<img
-			src="https://little.kylerconway.com/images/golang-what.gif"
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
 			alt="go"
-			width="80"
+			width="40"
 			height="40"
 		/>
 	</a>    
