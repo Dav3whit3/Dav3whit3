@@ -180,7 +180,7 @@
 
 ---
 
-<br>
+<!-- <br>
 <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sk8kid&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
@@ -188,4 +188,4 @@
 
 </div>
 
-<img src="img/banner.png" width="100%" height="50%"/>
+<img src="img/banner.png" width="100%" height="50%"/> -->
