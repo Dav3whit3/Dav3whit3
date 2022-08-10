@@ -1,5 +1,5 @@
 <div align="right" style="margin-right:10px">
-        <a href="mailto:davidblancoferrandez@gmail.com"/>
+        <a href="mailto:davidblancoferrandez@gmail.com">
         <img align="left" alt="" width="27px" src="https://img.icons8.com/doodle/48/000000/gmail.png"/>/></a>
         <a target="_blank" href="https://www.linkedin.com/in/david-white-madrid/">
         <img align="left" alt="Abhishek's LinkedIN" width="27px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />
