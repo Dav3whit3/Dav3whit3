@@ -18,7 +18,9 @@
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋;I'm David Blanco....;!&center=true&size=30">
     </a>
-    </h1>        
+    </h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi👋;I'm+David+Blanco;)](https://git.io/typing-svg)
     </div>
 </div>
 
