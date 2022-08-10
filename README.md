@@ -1,7 +1,9 @@
+
+
+<div>
 <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 <div align="right" style="margin-right:10px">
-    <div align="left" style="margin-right:10px">
         <a href="mailto:davidblancoferrandez@gmail.com"/>
         <img align="left" alt="" width="27px" src="https://simpleicons.org/icons/gmail.svg"/></a>
         <a href="">
@@ -18,11 +20,12 @@
         </a>
         <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+David+Blanco" alt="Typing SVG" /></a>
-
-
 <br>
+</div>
+</div>
 
 <div>
+
 😇 <b>About me👋</b>: <br>
 
 - 🔭 I’m a graduated both Web Development and Data Analytics Bootcamp student, currently working as a Full Stack Web Developer
