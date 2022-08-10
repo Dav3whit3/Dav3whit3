@@ -23,7 +23,7 @@
 😇 <b>About me👋</b>: <br>
 
 - 🔭 I’m a graduated both Web Development and Data Analytics Bootcamp student, currently working as a Full Stack Web Developer
-- 🌱 I also like to learn new tech and build software on my own time.I love to build new stuff whether it is an application, an script or any piece of code that creates utility
+- 🌱 I also like to learn new tech and build software on my own time.I love to build new stuff whether it is an application, an script or any piece of code that creates utility for somebody else. I'm open to participate in more projects as well! Just hit me up.
     <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="550">
     <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" /> -->
 - 💬 Problem solver & debugger adict
