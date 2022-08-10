@@ -26,7 +26,7 @@
 - 🌱 I also like to learn new tech and build software on my own time
 - 👯 Analytical and Empathetic personality
 - 🥅 Numbers + Build utility + Make things work
-    <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="550" height="325">
+    <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="550">
     <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="350" /> -->
 - 💬 Problem solver & debugger adict
 - 📬 Tech eater
