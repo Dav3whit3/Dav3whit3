@@ -49,6 +49,14 @@
 			height="40"
 		/>
 	</a>
+	<a href="https://golang.org" target="_blank">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
+			alt="go"
+			width="40"
+			height="40"
+		/>
+	</a>    
 	<a href="https://www.w3schools.com/css/" target="_blank">
 		<img
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
@@ -81,26 +89,34 @@
 			height="40"
 		/>
 	</a>
-	<a href="https://golang.org" target="_blank">
+	<a href="https://vuejs.org/" target="_blank">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-			alt="go"
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+			alt="vuejs"
 			width="40"
 			height="40"
 		/>
 	</a>
-	<a href="https://kubernetes.io" target="_blank">
+	<a href="https://reactjs.org/" target="_blank">
 		<img
-			src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-			alt="kubernetes"
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+			alt="react"
+			width="40"
+			height="40"
+		/>
+	</a>    
+	<a href="" target="_blank">
+		<img
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg"
+			alt="svelte"
 			width="40"
 			height="40"
 		/>
 	</a>
-	<a href="https://www.linux.org/" target="_blank">
+	<a href="" target="_blank">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-			alt="linux"
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
+			alt="tailwind"
 			width="40"
 			height="40"
 		/>
@@ -121,42 +137,18 @@
 			height="40"
 		/>
 	</a>
-	<a href="https://reactjs.org/" target="_blank">
+	<a href="https://kubernetes.io" target="_blank">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-			alt="react"
+			src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
+			alt="kubernetes"
 			width="40"
 			height="40"
 		/>
 	</a>
-	<a href="https://reactnative.dev/" target="_blank">
+	<a href="https://www.linux.org/" target="_blank">
 		<img
-			src="https://reactnative.dev/img/header_logo.svg"
-			alt="reactnative"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://vuejs.org/" target="_blank">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-			alt="vuejs"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="" target="_blank">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg"
-			alt="svelte"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="" target="_blank">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"
-			alt="tailwind"
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+			alt="linux"
 			width="40"
 			height="40"
 		/>
