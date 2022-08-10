@@ -5,14 +5,23 @@
         <b>Contact me:</b>
     </div>
     <br>
-    <div style="margin-right:10px">
+    <div align="center"style="margin-right:10px">
         <a href="mailto:davidblancoferrandez@gmail.com"/>
-            <img height="40px" src="https://simpleicons.org/icons/gmail.svg"/></a>
-        <a href="https://www.linkedin.com/in/david-white-madrid"/>
-            <img height="40px" src="https://simpleicons.org/icons/linkedin.svg"/></a>
-        <a href="https://www.notion.so/Resume-97726996db554517bc4149b34b1b8e04"></a>
-            <img height="40px" src="https://simpleicons.org/icons/notion.svg"/>
+        <img align="left" alt="" width="22px" src="https://simpleicons.org/icons/gmail.svg"/></a>
+        <a href="">
+        <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+        </a>
+        <a href="">
+        <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+        </a>
+        <a href="">
+        <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+        </a>
+        <a href="https://www.linkedin.com/in/david-white-madrid/">
+        <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+        </a>                
     </div>
+    ---
 </div>
 
 ---
@@ -150,8 +159,6 @@
 	</a>    
 </p>
 
-
-
 <details open>
  <summary> 😇 <b>About me👋</b>: </summary>
 <br>
@@ -170,13 +177,11 @@
 
 </details>
 
-
 <div align="center" style="margin-right:10px">
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Dav3whit3&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 </div>
-
 
 <div align="center" style="margin-right:10px">
 
