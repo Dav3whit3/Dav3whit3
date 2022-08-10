@@ -1,22 +1,18 @@
-<div align="center" style="margin-right:10px">
-    <div>
-        <b>Contact me:</b>
-    </div>
-    <br>
-    <div align="center" style="margin-right:10px">
+<div align="left" style="margin-right:10px">
+    <div align="left" style="margin-right:10px">
         <a href="mailto:davidblancoferrandez@gmail.com"/>
-        <img align="center" alt="" width="22px" src="https://simpleicons.org/icons/gmail.svg"/></a>
+        <img align="left" alt="" width="22px" src="https://simpleicons.org/icons/gmail.svg"/></a>
         <a href="">
-        <img align="center" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+        <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
         </a>
         <a href="">
-        <img align="center" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+        <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
         </a>
         <a href="">
-        <img align="center" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+        <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
         </a>
         <a href="https://www.linkedin.com/in/david-white-madrid/">
-        <img align="center" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+        <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
         </a>                
     </div>
 </div>
@@ -25,7 +21,7 @@
 <br>
 
 <div>
- <summary> 😇 <b>About me👋</b>: </summary>
+😇 <b>About me👋</b>:
 <br>
 
 🔭 I’m a graduated both Web Development and Data Analytics Bootcamp student, currently working as a Full Stack Web Developer
