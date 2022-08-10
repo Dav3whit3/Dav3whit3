@@ -10,7 +10,7 @@
         <a href="">
         <img align="left" alt="Abhishek's Discord" width="27px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
         </a>
-        <a href="">
+        <a href="https://twitter.com/DavidNohara91">
         <img align="left" alt="Abhishek Naidu | Twitter" width="27px" src="https://img.icons8.com/cotton/64/000000/twitter.png" />
         </a>
         <a href="https://git.io/typing-svg">
