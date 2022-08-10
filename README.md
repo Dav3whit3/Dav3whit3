@@ -1,18 +1,18 @@
 <div align="left" style="margin-right:10px">
     <div align="left" style="margin-right:10px">
         <a href="mailto:davidblancoferrandez@gmail.com"/>
-        <img align="left" alt="" width="22px" src="https://simpleicons.org/icons/gmail.svg"/></a>
+        <img align="left" alt="" width="27px" src="https://simpleicons.org/icons/gmail.svg"/></a>
         <a href="">
-        <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+        <img align="left" alt="Abhishek's Instagram" width="27px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
         </a>
         <a href="">
-        <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+        <img align="left" alt="Abhishek's Discord" width="27px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
         </a>
         <a href="">
-        <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+        <img align="left" alt="Abhishek Naidu | Twitter" width="27px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
         </a>
         <a href="https://www.linkedin.com/in/david-white-madrid/">
-        <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+        <img align="left" alt="Abhishek's LinkedIN" width="27px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
         </a>
         <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+David+Blanco" alt="Typing SVG" /></a>
