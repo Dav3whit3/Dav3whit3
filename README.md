@@ -5,7 +5,7 @@
         <b>Contact me:</b>
     </div>
     <br>
-    <div align="center"style="margin-right:10px">
+    <div align="center" style="margin-right:10px">
         <a href="mailto:davidblancoferrandez@gmail.com"/>
         <img align="left" alt="" width="22px" src="https://simpleicons.org/icons/gmail.svg"/></a>
         <a href="">
@@ -21,14 +21,15 @@
         <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
         </a>                
     </div>
-
-
 </div>
 
+<br>
+<br>
 
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<div>
 <details open>
  <summary> 😇 <b>About me👋</b>: </summary>
 <br>
@@ -44,6 +45,8 @@
   <br>
 
 </details>
+</div>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 	<a href="https://www.python.org" target="_blank">
