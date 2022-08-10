@@ -170,6 +170,9 @@
 
 <div align="center"  style="margin-right:10px">
 <br>
+<br>
+<br>
+<br>
 
 ![](https://raw.githubusercontent.com/Dav3whit3/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/Dav3whit3/github-stats-transparent/output/generated/languages.svg)
