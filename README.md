@@ -1,17 +1,15 @@
 <div align="right" style="margin-right:10px">
-        <a href="mailto:davidblancoferrandez@gmail.com">
-        <img align="left" width="27px" src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
-        <a target="_blank" href="https://www.linkedin.com/in/david-white-madrid/">
-        <img align="left" width="27px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />
-        </a>
-        <a href="">
-        <img align="left" width="27px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-        </a>
-        <a href="https://twitter.com/DavidNohara91">
-        <img align="left" width="27px" src="https://img.icons8.com/cotton/64/000000/twitter.png" />
-        </a>
-        <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+David+Blanco" alt="Typing SVG" /></a>
+	<a href="mailto:davidblancoferrandez@gmail.com">
+		<img align="left" width="27px" src="https://img.icons8.com/doodle/48/000000/gmail.png"/></a>
+	<a target="_blank" href="https://www.linkedin.com/in/david-white-madrid/">
+		<img align="left" width="27px" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />
+	</a>
+	<a href="https://twitter.com/DavidNohara91">
+		<img align="left" width="27px" src="https://img.icons8.com/cotton/64/000000/twitter.png" />
+	</a>
+	<a href="https://git.io/typing-svg">
+		<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B+I'm+David+Blanco"/>
+	</a>
 <br>
 </div>
 
